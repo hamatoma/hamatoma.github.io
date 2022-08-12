@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Hamatoma's Web Projects
 Here are the web relevant results of the projects from Hamatoma.
 
-* [Textbutler](https://hamatoma.github.io/textbutler)
+* [Textbutler](https://hamatoma.github.io/textbutler) a tool for text manipulation
 
 ## Build
 You can use the [editor on GitHub](https://github.com/hamatoma/textbutler.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
